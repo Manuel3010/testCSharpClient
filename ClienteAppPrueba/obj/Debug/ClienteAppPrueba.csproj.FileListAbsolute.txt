@@ -1,0 +1,10 @@
+C:\Users\Manuel\Documents\Visual Studio 2017\ClienteAppPrueba\ClienteAppPrueba\bin\Debug\ClienteAppPrueba.exe.config
+C:\Users\Manuel\Documents\Visual Studio 2017\ClienteAppPrueba\ClienteAppPrueba\bin\Debug\ClienteAppPrueba.exe
+C:\Users\Manuel\Documents\Visual Studio 2017\ClienteAppPrueba\ClienteAppPrueba\bin\Debug\ClienteAppPrueba.pdb
+C:\Users\Manuel\Documents\Visual Studio 2017\ClienteAppPrueba\ClienteAppPrueba\obj\Debug\ClienteAppPrueba.csprojAssemblyReference.cache
+C:\Users\Manuel\Documents\Visual Studio 2017\ClienteAppPrueba\ClienteAppPrueba\obj\Debug\ClienteAppPrueba.frmUser.resources
+C:\Users\Manuel\Documents\Visual Studio 2017\ClienteAppPrueba\ClienteAppPrueba\obj\Debug\ClienteAppPrueba.Properties.Resources.resources
+C:\Users\Manuel\Documents\Visual Studio 2017\ClienteAppPrueba\ClienteAppPrueba\obj\Debug\ClienteAppPrueba.csproj.GenerateResource.cache
+C:\Users\Manuel\Documents\Visual Studio 2017\ClienteAppPrueba\ClienteAppPrueba\obj\Debug\ClienteAppPrueba.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Documents\Visual Studio 2017\ClienteAppPrueba\ClienteAppPrueba\obj\Debug\ClienteAppPrueba.exe
+C:\Users\Manuel\Documents\Visual Studio 2017\ClienteAppPrueba\ClienteAppPrueba\obj\Debug\ClienteAppPrueba.pdb
